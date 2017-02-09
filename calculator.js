@@ -1,4 +1,4 @@
-"use string";
+"use strict";
 
 function calculate(str) {
     // TODO: Actually write this function
